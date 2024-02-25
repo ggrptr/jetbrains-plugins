@@ -1,1 +1,1 @@
-# jetbrains-plugins
+# JetBrains plugin repository
