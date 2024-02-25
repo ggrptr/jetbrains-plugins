@@ -19,9 +19,13 @@ available at this repository.
             url="https://ggrptr.github.io/jetbrains-plugins/vcc-commit-message-1.1.3.zip"
             version="1.1.3">
         <name>VCC Commit Message</name>
-        <vendor email="mail@geigerpeter.hu" url="https://geigerpeter.hu">Peter Geiger</vendor>
-        <description>Commit message generation and validation according to VCC standards</description>
-        <changelog></changelog>
+        <description>Generate and validate commit messages according to VCC standards.</description>
+        <changelog><![CDATA[
+        <h4>1.1.3</h4>
+            <ul>
+                <li>The last message data is stored in the state and will be used as the default next time.</li>
+            </ul>
+      ]]></changelog>
         <!--
         The <idea-version> element (required) must match the same element
         in the plugin.xml file.
