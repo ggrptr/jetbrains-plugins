@@ -16,8 +16,8 @@ available at this repository.
     -->
     <plugin
             id="hu.geigerpeter.vcc-commit-message"
-            url="https://ggrptr.github.io/jetbrains-plugins/vcc-commit-message-1.1.4.zip"
-            version="1.1.4">
+            url="https://ggrptr.github.io/jetbrains-plugins/vcc-commit-message-1.1.5.zip"
+            version="1.1.5">
         <name>VCC Commit Message</name>
         <description>Generate and validate commit messages according to VCC standards.</description>
         <change-notes><![CDATA[
